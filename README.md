@@ -1,7 +1,7 @@
 # 🗺️ Latent Couple Region Mapper
 A web-based tool for drawing and defining regions and prompts for the Stable Diffusion Automatic1111 Latent Couple extension.
 
-[Give It A Try](http://badnoise.net/latentcoupleregionmapper)
+[Give It A Try](http://codezombie.github.io/latentcoupleregionmapper/)
 
 # What Is It ?
 Latent Couple tools for Stable Diffusion allow you to map specific prompts to specific physical regions within a canvas, allowing much finer control over the output. Unfortunately, the format in which these tools accept region bounds is one of the most unintuitive things I've ever seen. That's why I wrote this tool.
